@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is rostom and I'm a full stack developper, from france.</h1>
+<h1 align="center">Hi 👋! My name is Rostom and I'm a full stack developper, from france.</h1>
 
 <h3>Currently I'm learning back-end</h3>
 
