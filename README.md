@@ -46,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" title="MySQL" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" title="Git" />
-   <img src="[https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge](https://img.icons8.com/?size=100&id=30998&format=png&color=000000)" height="30" alt="discord logo"  />
+   <img src="https://img.icons8.com/?size=100&id=30998&format=png&color=000000" height="30" alt="discord logo"  />
 </div>
 
 ### contact me
