@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋! My name is rostom and I'm a full stack developper, from france.</h1>
 
-<h3>I'm learning right now back-end</h3>
+<h3>Currently I'm learning back-end</h3>
 
 <p>Available for work</p>
 
@@ -50,6 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" title="Git" />
 </div>
 
+### contact me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/rostom-rekik/" target="_blank">
