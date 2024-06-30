@@ -45,7 +45,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" title="MySQL" />
   <img width="12" />
-  <div style="background-color: gray; border-radius: 50px; display: inline-block;">
+  <div style="background-color: gray; border-radius: 50px; display: inline;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express logo" title="Express" />
 </div>
   <img width="12" />
