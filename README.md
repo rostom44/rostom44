@@ -56,9 +56,9 @@
 ### Contact me
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/rostom-rekik/" target="_blank">
+ <!-- <a href="https://www.linkedin.com/in/rostom-rekik/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+  </a>-->
 <div style="display: flex; align-items: center;">
     <a href="mailto:r.rostom@outlook.fr">
         <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo" />
