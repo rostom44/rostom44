@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋! My name is Rostom and I'm a full stack developper, from france.</h1>
 
-<h3>Currently I'm learning back-end</h3>
+<h3>Currently I'm learning discord.js</h3>
 
-<p>Available for work</p>
+<p>Available for work ☺️</p>
 
 <img align="right" height="150" src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif"  />
 
