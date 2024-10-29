@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋! My name is Rostom and I'm a full stack developper, from france.</h1>
 
-<h3>Currently doing my portfolio</h3>
+<h3>Currently doing my discord bot</h3>
 
 <p>Available for work ☺️</p>
 
@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" title="MySQL" />
   <img width="12" />
-  <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" height="30"   alt="Express logo" title="Express" />
+  <img src="express" height="30"   alt="Express logo" title="https://github.com/devicons/devicon/blob/v2.16.0/icons/express/express-original.svg" />
   <img width="12" />
 </div>
 
