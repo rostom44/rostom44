@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo" title="MySQL" />
   <img width="12" />
-  <img src="express" height="30"   alt="Express logo" title="https://github.com/devicons/devicon/blob/v2.16.0/icons/express/express-original.svg" />
+  <img src="https://github.com/rostom44/rostom44/raw/main/express-original.svg" height="30" alt="Express logo" title="Express" />
   <img width="12" />
 </div>
 
