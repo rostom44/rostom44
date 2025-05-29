@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋! My name is Rostom and I'm a full stack developper, from france.</h1>
 
-<h3>Currently doing my discord bot</h3>
+<h3>Currently doing nothing</h3>
 
 <p>Available for work ☺️</p>
 
@@ -16,6 +16,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" title="CSS3" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="Swift logo" title="Swift" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" title="Typescript" />
 </div>
 
 ### Frameworks and Libraries
