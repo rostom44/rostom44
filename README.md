@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋! My name is Rostom and I'm a full stack developper, from france.</h1>
 
-<h3>setting up a mini server and working on a website</h3>
+<h3>currently i'm setting up a mini server and working on a website</h3>
 
 <p>Available for work ☺️</p>
 
@@ -13,7 +13,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:30px; width:auto;" alt="HTML5 logo" title="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:30px; width:auto;" alt="CSS3 logo" title="CSS3" />
+  <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" style="height:30px; width:auto;" alt="W3C CSS logo" title="CSS3 (W3C)" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" style="height:30px; width:auto;" alt="Swift logo" title="Swift" />
   <img width="12" />
@@ -56,6 +56,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="height:30px; width:auto;" alt="Linux logo" title="Linux" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="height:30px; width:auto;" alt="Ubuntu logo" title="Ubuntu Server" />
+  <img width="12" />
+
   
 </div>
 
