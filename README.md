@@ -54,6 +54,9 @@
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=30998&format=png&color=000000" style="height:30px; width:auto;" alt="Discord logo" title="Discord" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="height:30px; width:auto;" alt="Linux logo" title="Linux" />
+  <img width="12" />
+  
 </div>
 
 
