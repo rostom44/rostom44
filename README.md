@@ -4,7 +4,7 @@
 
 <p>Available for work ☺️</p>
 
-<img align="right" height="150" src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif"  />
+<img align="right" height="15" src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif"  />
 
 ### Languages
 
