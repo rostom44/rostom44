@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋! My name is Rostom and I'm a full stack developper, from france.</h1>
 
-<h3>had enough i'm taking a break</h3>
+<h3>setting up a mini server and working on a website</h3>
 
 <p>Available for work ☺️</p>
 
