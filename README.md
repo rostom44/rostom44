@@ -13,7 +13,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:30px; width:auto;" alt="HTML5 logo" title="HTML5" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/rostom44/assets/main/icons/css-purple.svg" style="height:30px; width:auto;" alt="New CSS logo" title="CSS (New)" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Official_CSS_Logo.svg" style="height:30px; width:auto;" alt="CSS logo" title="CSS (New)" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" style="height:30px; width:auto;" alt="Swift logo" title="Swift" />
   <img width="12" />
